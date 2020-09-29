@@ -1,0 +1,8 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+      "connectionString": "Endpoint=sb://firstsbad.servicebus.windows.net/;SharedAccessKeyName=testQpolicyname;SharedAccessKey=8FdJMh02iMPu58kIfWQtJcP7odwslqzc+f4+3u1aUns=;"
+  }
+}
